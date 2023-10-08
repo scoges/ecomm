@@ -68,3 +68,5 @@ router.delete('/:id', async (req, res) => {
 		res.json(err);
 	});
 });
+
+module.exports = router;
