@@ -35,5 +35,12 @@
   GitHub: https://github.com/scoges  
   Email: scott.ogrins@gmail.com
 
+  ## Live video link
+  https://www.dropbox.com/scl/fi/5kkxx7upa6vdgq22q58xv/2023-10-08-19-59-22.mkv?rlkey=jtn3ocvqnvmct8uolormcjh0o&dl=0
+
+![Screenshot from 2023-10-08 20-10-02](https://github.com/scoges/ecomm/assets/131681487/1d46ee3e-1969-4e82-a9f6-83d6789681bc)
+
+
+
   ## Credits
   Scott Ogrins
